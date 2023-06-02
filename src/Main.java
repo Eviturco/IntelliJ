@@ -7,4 +7,5 @@ public class Main {
         Student a2 = new Student("Pedro", "pedro@politecnics.barcelona", "ALU_002", 28);
         System.out.println(a2);
     }
+    // Pequeño cambio para ver si todo sale bien :)
 }

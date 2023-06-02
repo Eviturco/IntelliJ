@@ -46,4 +46,7 @@ public class Person {
     public void move(){
         System.out.println("One step forward");
     }
+
+    // Pequeño cambio para ver si todo sale bien :)
+
 }
